@@ -2,13 +2,13 @@
 <h1 align="center">Hola 👋,mi nombre es Juan David Daza</h1>
 <h3 align="center">Soy Ingeniero de sistemas de la ciudad de Cali-Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo para ser **Full  Mean Stack y para usar la herramienta Docker**
+-Actualmente estoy aprendiendo las herramientas necesarias de **MEAN Stack**
 
-- 🤝 Realice un Proyecto de gestión de Eventos para la Universidad en que estudie - [Sistema de Gestión de Eventos para la Universidad Libre (Proceso de Pruebas)](http://190.143.117.134/)
+-Realice un Proyecto de gestión de Eventos para la Universidad en que estudie - [Sistema de Gestión de Eventos para la Universidad Libre (Proceso de Pruebas)](https://eventos.unilibre.edu.co/)
 
-- 📫 email **Juandavid5845@hotmail.com - juanda7473@gmail.com**
+-email **Juandavid5845@hotmail.com - juanda7473@gmail.com**
 
-- ⚡ Trabajo **Para la empresa SIESA**
+-Trabajo **Para la empresa SIESA**
 
 
 <h3 align="left">Languages and Tools:</h3>
