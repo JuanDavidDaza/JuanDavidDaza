@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋,mi nombre es Juan David Daza</h1>
+<h1 align="center">Hola 👋, mi nombre es Juan David Daza</h1>
 <h3 align="center">Soy Ingeniero de sistemas de la ciudad de Cali-Colombia</h3>
 
 -Actualmente estoy aprendiendo las herramientas necesarias de **MEAN Stack**
